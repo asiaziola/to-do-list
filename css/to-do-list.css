@@ -5,6 +5,10 @@ body {
     overflow-x: hidden;
 }
 
+.list__item--disabled {
+    display: none;
+}
+
 .section__body {
     background-color: white;
     padding: 20px;
